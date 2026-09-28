@@ -1,3 +1,3 @@
 Project: Git Assignment 1
-Line 2: edited in branchA
+Line 2: edited in branchA and branchB (resolved)
 Line 3: end of file
