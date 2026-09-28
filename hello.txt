@@ -1,1 +1,2 @@
 Hello Git - fixed version
+Line added in feature-branch
