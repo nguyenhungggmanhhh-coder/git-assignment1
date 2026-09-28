@@ -1,0 +1,3 @@
+Project: Git Assignment 1
+Line 2: original text
+Line 3: end of file
